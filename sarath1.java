@@ -1,5 +1,3 @@
-hai sarath
-
     class Integers {
       public static void main(String[] arguments) {
         int c; //declaring a variable
